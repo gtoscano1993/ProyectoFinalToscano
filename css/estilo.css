@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor {
+    background-image: url('../images/Fondo1.jpg');
+    background-size: cover;
+    background-repeat: repeat;
+    height: 100vh;
+}
+
+.bangers-regular {
+        font-family: "Bangers", system-ui;
+        font-weight: 400;
+        font-style: normal;
+      }
+
+.colorFondo2 {
+    background-color: #676c70a6;
+}
+
+.colorFuente {
+    color: #040808;
+}
+
+
+  
